@@ -18,8 +18,8 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Aranika4518?theme=dark&font=Nunito&ext=heatmap" />  
 </p>-->
 
-## GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RajatSharma070904&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"> </p>
+## Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RajatSharma070904&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"> </p>
 
 ## Top Contributions
 <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=RajatSharma070904&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions"> </p> <p align="center"> <img src="https://visitcount.itsvg.in/api?id=RajatSharma070904&icon=0&color=6" alt="Visitor Count"> </p>
