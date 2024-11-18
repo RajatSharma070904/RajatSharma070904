@@ -3,11 +3,8 @@
 ## 💫 About Me:
 - 🔭 I’m Rajat Sharma, a Artificial Intellgence & Data Science Student.
 
-## Connect With Me : 
-<p align="left">
-<a href="https://www.linkedin.com/in/rajat-sharma-182423247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arava-choudhary-9a8a61263/" height="30" width="40" /></a>
-<a href="https://portfolio-website-u8sk.onerender.com/" target="blank" style="margin-left: 15px;"><img align="center" src="https://img.shields.io/badge/Website-FFC107.svg?style=flat&logo=web&logoColor=white" alt="Website" width="100" height="30" /></a>
-</p>
+Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/rajat-sharma-182423247/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://portfolio-website-u8sk.onerender.com/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23FFA500.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"> </a> </p
 
 ## 💻 Tech Stack:
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](https://en.wikipedia.org/wiki/Django_(web_framework))
