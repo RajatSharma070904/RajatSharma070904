@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">  
   <img src="https://img.shields.io/badge/Node.js-%233C873A.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">  
   <img src="https://img.shields.io/badge/Google%20Colab-%234B32C3.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
-  <img src="https://img.shields.io/badge/NLP-%230075A8.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP">
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-%230075A8.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="Natural Language Processing">
   <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 
 
